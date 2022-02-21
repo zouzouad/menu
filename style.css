@@ -1,0 +1,88 @@
+.container {
+    position:absolute;
+    background-color: #FFEEFF;
+    width: 1580px;
+    text-align: center;
+}
+.entetepage {
+    background-color: aqua;
+    height: 80px;
+    margin: 20px;
+}
+
+#menu {
+    background-color: #ccbbee;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+#gauche {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 173vh;
+}
+
+section {
+    margin: 15ps;
+}
+
+ol, li {
+    display: block;
+    display: inline;
+    font-size: 20px;
+    width: 100px;
+    margin: 50px;
+}
+
+ol li a:hover {
+    background-color: #aaa;
+    border-color: #696969 #dcdcdc #dcdcdc #696969;
+ }
+ 
+
+h2 {
+    margin: 20px;
+}
+
+h3 {
+    margin: 20px;
+}
+
+footer {
+    background-color: pink;
+    height: 60px;
+    margin: 5px;
+    font-size: 20px;
+    border: 3px solid white;
+    text-align: center;
+}
+
+h4 {
+    font-size: 15px;
+}
+
+p {
+    margin: 20px;
+}
+
+body {
+    width: 960px;
+}
+
+#droite {
+    display: block;
+    float: right;
+    width: 100px;
+
+}
+
+#centre {
+    display: block;
+    float: right;
+    width: 100px;
+    text-align: center;
+}
